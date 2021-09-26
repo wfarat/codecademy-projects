@@ -7,7 +7,7 @@ const one = ['Waste no more time, to','It never ceases to amaze me, that people'
 'First say to yourself what it means to', 'Curb your desire— and don’t', 'That’s why the philosophers warn us not to be satisfied with mere learning, but we', 'Don’t explain your philosophy, better', 'The chief task in life is simply this:',
 'If anyone tells you that a certain person speaks ill of you, then', 'I begin to speak only, when someone', 'What man actually needs is to', 'When we are no longer trying to'];
 const two = ['argue what a good man should be', 'live life according to Nature', 'love ourselves more than other people', 'like your enemy', 'feel harmed', 'dance like a puppet', 
-'erase right now', 'make a mistake or look at things from the wrong perspective', 'determine what you do and say and think', 'suffer more in imagination than in reality', 
+'be content to be thought foolish and stupid', 'do anything worth of a man who is alive', 'determine what you do and say and think', 'suffer more in imagination than in reality', 
 'cheerfully put to good use', 'pass some time', 'never do anything worth of a man who is alive', 'look forward to death', 'neglect the present, and fear the future', 'make troubles heavier by bemoaning them'
 , 'demand the best for yourself', 'wish that everything happens as it actually will', 'don’t set your heart on so many things and you will get what you need', 'forget what we learned and end up doing the opposite',
 'look for good and evil', 'make excuses about what is said', 'change a situation'];
