@@ -1,5 +1,7 @@
-header {
-    font-family: Helvetica;
+h1, h2, h3, p {
+    font-family: Helvetica, sans-serif;
+}
+h1 {
     font-size: 100px;
     font-weight: bold;
     color: khaki;
@@ -8,7 +10,6 @@ header {
 }
 
 h2 {
-    font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
@@ -18,7 +19,6 @@ h2.brushes {
 }
 
 span {
-    font-family: Helvetica;
     font-weight: bold;
     color: blue;
 }
